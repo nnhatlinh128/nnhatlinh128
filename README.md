@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**nnhatlinh128/nnhatlinh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Nguyen Nhat Linh**, a final-year E-commerce student at the University of Economics Ho Chi Minh City (UEH) with a strong interest in Data Analytics and Business Intelligence.
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights through SQL, Python, and Power BI. My projects focus on data analysis, dashboard development, and data warehouse design, covering topics such as CRM analytics, customer behavior analysis, and ETL pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am expanding my knowledge in data engineering concepts, data modeling, and analytics workflows while building practical projects that solve real business problems.
+
+### 🛠️ Technical Skills
+
+* **Programming:** SQL, Python (Pandas, NumPy)
+* **Databases:** PostgreSQL, SQL Server, BigQuery
+* **Business Intelligence:** Power BI, DAX, Power Query
+* **Data Engineering:** ETL Pipelines, Data Warehouse, Star Schema, Data Modeling
+* **Tools:** Git, GitHub
+
+📫 **Email:** [nnhatlinh128@gmail.com](mailto:nnhatlinh128@gmail.com)
